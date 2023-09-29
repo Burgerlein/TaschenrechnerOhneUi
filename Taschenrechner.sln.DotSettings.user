@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a1ea829f_002D2b03_002D4435_002D9541_002Dccd6397e85ab/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Testddition" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D6EF6FDB-BFA4-44C2-A6D3-07E3FF2E83BF::net7.0::TestTaschenrechner.Tests.TestAddition&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D6EF6FDB-BFA4-44C2-A6D3-07E3FF2E83BF::net7.0::TestTaschenrechner.Tests.TestSubtraktion&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D6EF6FDB-BFA4-44C2-A6D3-07E3FF2E83BF::net7.0::TestTaschenrechner.Tests.TestMultiplikation&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D6EF6FDB-BFA4-44C2-A6D3-07E3FF2E83BF::net7.0::TestTaschenrechner.Tests.TestDivision&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
